@@ -16,7 +16,7 @@ AI-augmented systems developer focused on multi-agent orchestration, LLM routing
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**NexusCore**](https://github.com/fukukei23/NexusCore) | Multi-agent AI framework: 14 agents, 4,800+ tests, plugin system, CLI | Python, FastAPI, Gradio, pytest |
+| [**NexusCore**](https://github.com/fukukei23/NexusCore) | Multi-agent AI framework: 14 agents, 4,895 tests, plugin system, CLI | Python, FastAPI, Gradio, pytest |
 | [**atelier-kyo-manager**](https://github.com/fukukei23/atelier-kyo-manager) | Resale management: auto-order state machine, AI chatbot, listing pipeline | Python, Flask, SQLAlchemy, Playwright |
 | [**reserve-optimizer**](https://github.com/fukukei23/reserve-optimizer) | LINE reservation bot: conversational state machine, Stripe payments | GAS, Cloudflare Workers, Stripe, LINE API |
 | [**OpenClaw Stack**](https://github.com/fukukei23/openclaw-stack) | AI agent infrastructure: VPS + local dual deploy, 4-layer security | Docker, Caddy, UFW, HTTPS |
