@@ -1,6 +1,26 @@
 # Hi, I'm fukukei23
 
-AI-augmented systems developer focused on multi-agent orchestration, LLM routing, and infrastructure automation.
+Non-IT civil servant building production-grade AI systems with prompt engineering. Focused on multi-agent orchestration, LLM routing, test-driven development, and technical guides.
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**NexusCore**](https://github.com/fukukei23/NexusCore) | Multi-agent AI framework: 14 agents, 5,300+ tests, plugin system, CLI | Python, FastAPI, Gradio, pytest |
+| [**atelier-kyo-manager**](https://github.com/fukukei23/atelier-kyo-manager) | Resale management: auto-order state machine, AI chatbot, 1,600+ tests | Python, Flask, SQLAlchemy, Playwright |
+| [**reserve-optimizer**](https://github.com/fukukei23/reserve-optimizer) | LINE reservation bot: conversational state machine, Stripe payments, 970 tests | GAS, Cloudflare Workers, Stripe, LINE API |
+| [**pw-stealth-enhanced**](https://github.com/fukukei23/pw-stealth-enhanced) | Anti-fingerprinting library for Playwright (playwright-stealth successor) | Python, Playwright |
+| [**orchestrix**](https://github.com/fukukei23/orchestrix) | Multi-agent orchestration engine: task decomposition, completion verification | Python, Docker, PostgreSQL |
+
+## Guides & Publications
+
+| Guide | Description |
+|-------|-------------|
+| [**Claude Code Guide**](https://github.com/fukukei23/claude-code-guide) | Claude Code CLI complete guide (mobile-optimized HTML) |
+| [**Python Reading Guide**](https://fukukei23.github.io/python-reading-guide/) | Learn to read Python without writing code |
+| [**LLM Routing Guide**](https://fukukei23.github.io/guides/llm-routing/) | Multi-LLM routing and cost optimization |
+| [**OpenClaw Stack Guide**](https://github.com/fukukei23/openclaw-stack-guide) | Beginner-friendly Docker + Caddy deployment |
+| [**Zenn Articles**](https://github.com/fukukei23/zenn) | Technical articles on Claude Code, AI cost optimization, scraping |
 
 ## Tech Stack
 
@@ -11,16 +31,8 @@ AI-augmented systems developer focused on multi-agent orchestration, LLM routing
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**NexusCore**](https://github.com/fukukei23/NexusCore) | Multi-agent AI framework: 14 agents, 4,895 tests, plugin system, CLI | Python, FastAPI, Gradio, pytest |
-| [**atelier-kyo-manager**](https://github.com/fukukei23/atelier-kyo-manager) | Resale management: auto-order state machine, AI chatbot, listing pipeline | Python, Flask, SQLAlchemy, Playwright |
-| [**reserve-optimizer**](https://github.com/fukukei23/reserve-optimizer) | LINE reservation bot: conversational state machine, Stripe payments | GAS, Cloudflare Workers, Stripe, LINE API |
-| [**OpenClaw Stack**](https://github.com/fukukei23/openclaw-stack) | AI agent infrastructure: VPS + local dual deploy, 4-layer security | Docker, Caddy, UFW, HTTPS |
-| [**pw-stealth-enhanced**](https://github.com/fukukei23/pw-stealth-enhanced) | Anti-fingerprinting library for Playwright (playwright-stealth successor) | Python, Playwright |
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ## GitHub Stats
 
@@ -30,9 +42,10 @@ AI-augmented systems developer focused on multi-agent orchestration, LLM routing
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fukukei23&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-## Focus Areas
+## Core Strengths
 
-- Multi-agent orchestration and task decomposition
-- LLM cost optimization and multi-provider routing
-- Production infrastructure (Docker, reverse proxy, TLS, monitoring)
-- Serverless architectures (Cloudflare Workers, GAS, Stripe)
+- Test-driven development — 7,900+ tests across 3 projects, 0 failures in CI
+- LLM cost optimization — local proxy with peak-hour blocking, automatic fallback chain
+- Multi-agent orchestration — task decomposition, quality gates, governance automation
+- Technical writing — 5 interactive HTML guides published on GitHub Pages
+- Production infrastructure — Docker, Caddy reverse proxy, TLS, monitoring
