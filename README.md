@@ -17,7 +17,6 @@
 | ガイド | 概要 |
 |-------|-------------|
 | [**Claude Code Guide**](https://github.com/fukukei23/claude-code-guide) | Claude Code CLI 完全ガイド（モバイル対応HTML） |
-| [**Python読解力ガイド**](https://fukukei23.github.io/python-reading-guide/) | コードを書かずに「読める」ようになる教科書 |
 | [**LLMルーティングガイド**](https://fukukei23.github.io/guides/llm-routing/) | マルチLLMルーティングとコスト最適化 |
 | [**OpenClaw Stack Guide**](https://github.com/fukukei23/openclaw-stack-guide) | 初心者向け Docker + Caddy デプロイガイド |
 | [**Zenn技術記事**](https://github.com/fukukei23/zenn) | Claude Code、AIコスト最適化、スクレイピング等の技術記事 |
@@ -47,5 +46,5 @@
 - テスト駆動開発 — 3プロジェクト合計 7,900+テスト、CI 0失敗
 - LLMコスト最適化 — ピーク時間帯ブロック・自動フォールバックチェーン搭載ローカルプロキシ
 - マルチエージェントオーケストレーション — タスク分解・品質ゲート・ガバナンス自動化
-- 技術記事執筆 — GitHub Pages で5冊のインタラクティブガイド公開
+- 技術記事執筆 — GitHub Pages で4冊のインタラクティブガイド公開
 - 本番インフラ構築 — Docker, Caddy, TLS, モニタリング
