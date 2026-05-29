@@ -10,7 +10,7 @@ Non-IT civil servant building production-grade AI systems with prompt engineerin
 | [**atelier-kyo-manager**](https://github.com/fukukei23/atelier-kyo-manager) | Resale management: auto-order state machine, AI chatbot, 1,600+ tests | Python, Flask, SQLAlchemy, Playwright |
 | [**reserve-optimizer**](https://github.com/fukukei23/reserve-optimizer) | LINE reservation bot: conversational state machine, Stripe payments, 970 tests | GAS, Cloudflare Workers, Stripe, LINE API |
 | [**pw-stealth-enhanced**](https://github.com/fukukei23/pw-stealth-enhanced) | Anti-fingerprinting library for Playwright (playwright-stealth successor) | Python, Playwright |
-| [**orchestrix**](https://github.com/fukukei23/orchestrix) | Multi-agent orchestration engine: task decomposition, completion verification | Python, Docker, PostgreSQL |
+| [**OpenClaw Stack**](https://github.com/fukukei23/openclaw-stack) | AI agent infrastructure: VPS + local dual deploy, Caddy reverse proxy, 4-layer security | Docker, Caddy, UFW, HTTPS |
 
 ## Guides & Publications
 
