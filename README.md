@@ -1,28 +1,28 @@
 # Hi, I'm fukukei23
 
-Non-IT civil servant building production-grade AI systems with prompt engineering. Focused on multi-agent orchestration, LLM routing, test-driven development, and technical guides.
+非IT公務員からプロンプトエンジニアリングで本格AIシステムを構築。マルチエージェントオーケストレーション、LLMルーティング、テスト駆動開発、技術ガイド執筆を中心に活動しています。
 
-## Featured Projects
+## 注力プロジェクト
 
-| Project | Description | Stack |
+| プロジェクト | 概要 | スタック |
 |---------|-------------|-------|
-| [**NexusCore**](https://github.com/fukukei23/NexusCore) | Multi-agent AI framework: 14 agents, 5,300+ tests, plugin system, CLI | Python, FastAPI, Gradio, pytest |
-| [**atelier-kyo-manager**](https://github.com/fukukei23/atelier-kyo-manager) | Resale management: auto-order state machine, AI chatbot, 1,600+ tests | Python, Flask, SQLAlchemy, Playwright |
-| [**reserve-optimizer**](https://github.com/fukukei23/reserve-optimizer) | LINE reservation bot: conversational state machine, Stripe payments, 970 tests | GAS, Cloudflare Workers, Stripe, LINE API |
-| [**pw-stealth-enhanced**](https://github.com/fukukei23/pw-stealth-enhanced) | Anti-fingerprinting library for Playwright (playwright-stealth successor) | Python, Playwright |
-| [**OpenClaw Stack**](https://github.com/fukukei23/openclaw-stack) | AI agent infrastructure: VPS + local dual deploy, Caddy reverse proxy, 4-layer security | Docker, Caddy, UFW, HTTPS |
+| [**NexusCore**](https://github.com/fukukei23/NexusCore) | マルチエージェントAIフレームワーク: 14エージェント, 5,300+テスト, プラグインシステム, CLI | Python, FastAPI, Gradio, pytest |
+| [**atelier-kyo-manager**](https://github.com/fukukei23/atelier-kyo-manager) | 物販管理システム: 自動発注ステートマシン, AIチャットボット, 1,600+テスト | Python, Flask, SQLAlchemy, Playwright |
+| [**reserve-optimizer**](https://github.com/fukukei23/reserve-optimizer) | 整骨院LINE予約Bot: 会話型ステートマシン, Stripe決済, 970テスト | GAS, Cloudflare Workers, Stripe, LINE API |
+| [**pw-stealth-enhanced**](https://github.com/fukukei23/pw-stealth-enhanced) | Playwright用アンチフィンガープリントライブラリ（playwright-stealth後継） | Python, Playwright |
+| [**OpenClaw Stack**](https://github.com/fukukei23/openclaw-stack) | AIエージェントインフラ: VPS + ローカル二段階デプロイ, Caddyリバースプロキシ, 4層セキュリティ | Docker, Caddy, UFW, HTTPS |
 
-## Guides & Publications
+## ガイド & 技術記事
 
-| Guide | Description |
+| ガイド | 概要 |
 |-------|-------------|
-| [**Claude Code Guide**](https://github.com/fukukei23/claude-code-guide) | Claude Code CLI complete guide (mobile-optimized HTML) |
-| [**Python Reading Guide**](https://fukukei23.github.io/python-reading-guide/) | Learn to read Python without writing code |
-| [**LLM Routing Guide**](https://fukukei23.github.io/guides/llm-routing/) | Multi-LLM routing and cost optimization |
-| [**OpenClaw Stack Guide**](https://github.com/fukukei23/openclaw-stack-guide) | Beginner-friendly Docker + Caddy deployment |
-| [**Zenn Articles**](https://github.com/fukukei23/zenn) | Technical articles on Claude Code, AI cost optimization, scraping |
+| [**Claude Code Guide**](https://github.com/fukukei23/claude-code-guide) | Claude Code CLI 完全ガイド（モバイル対応HTML） |
+| [**Python読解力ガイド**](https://fukukei23.github.io/python-reading-guide/) | コードを書かずに「読める」ようになる教科書 |
+| [**LLMルーティングガイド**](https://fukukei23.github.io/guides/llm-routing/) | マルチLLMルーティングとコスト最適化 |
+| [**OpenClaw Stack Guide**](https://github.com/fukukei23/openclaw-stack-guide) | 初心者向け Docker + Caddy デプロイガイド |
+| [**Zenn技術記事**](https://github.com/fukukei23/zenn) | Claude Code、AIコスト最適化、スクレイピング等の技術記事 |
 
-## Tech Stack
+## 技術スタック
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -42,10 +42,10 @@ Non-IT civil servant building production-grade AI systems with prompt engineerin
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fukukei23&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-## Core Strengths
+## 強み
 
-- Test-driven development — 7,900+ tests across 3 projects, 0 failures in CI
-- LLM cost optimization — local proxy with peak-hour blocking, automatic fallback chain
-- Multi-agent orchestration — task decomposition, quality gates, governance automation
-- Technical writing — 5 interactive HTML guides published on GitHub Pages
-- Production infrastructure — Docker, Caddy reverse proxy, TLS, monitoring
+- テスト駆動開発 — 3プロジェクト合計 7,900+テスト、CI 0失敗
+- LLMコスト最適化 — ピーク時間帯ブロック・自動フォールバックチェーン搭載ローカルプロキシ
+- マルチエージェントオーケストレーション — タスク分解・品質ゲート・ガバナンス自動化
+- 技術記事執筆 — GitHub Pages で5冊のインタラクティブガイド公開
+- 本番インフラ構築 — Docker, Caddy, TLS, モニタリング
