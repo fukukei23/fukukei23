@@ -6,8 +6,8 @@
 
 | プロジェクト | 概要 | スタック |
 |---------|-------------|-------|
-| [**NexusCore**](https://github.com/fukukei23/NexusCore) | マルチエージェントAIフレームワーク: 14エージェント, 5,300+テスト, プラグインシステム, CLI | Python, FastAPI, Gradio, pytest |
-| [**atelier-kyo-manager**](https://github.com/fukukei23/atelier-kyo-manager) | 物販管理システム: 自動発注ステートマシン, AIチャットボット, 1,600+テスト | Python, Flask, SQLAlchemy, Playwright |
+| [**NexusCore**](https://github.com/fukukei23/NexusCore) | マルチエージェントAIフレームワーク: 14エージェント, 4,862テスト, プラグインシステム, CLI | Python, FastAPI, Gradio, pytest |
+| [**atelier-kyo-manager**](https://github.com/fukukei23/atelier-kyo-manager) | 物販管理システム: 自動発注ステートマシン, AIチャットボット, 2,070テスト | Python, Flask, SQLAlchemy, Playwright |
 | [**reserve-optimizer**](https://github.com/fukukei23/reserve-optimizer) | 整骨院LINE予約Bot: 会話型ステートマシン, Stripe決済, 970テスト | GAS, Cloudflare Workers, Stripe, LINE API |
 | [**pw-stealth-enhanced**](https://github.com/fukukei23/pw-stealth-enhanced) | Playwright用アンチフィンガープリントライブラリ（playwright-stealth後継） | Python, Playwright |
 | [**OpenClaw Stack**](https://github.com/fukukei23/openclaw-stack) | AIエージェントインフラ: VPS + ローカル二段階デプロイ, Caddyリバースプロキシ, 4層セキュリティ | Docker, Caddy, UFW, HTTPS |
@@ -43,7 +43,7 @@
 
 ## 強み
 
-- テスト駆動開発 — 3プロジェクト合計 7,900+テスト、CI 0失敗
+- テスト駆動開発 — 3プロジェクト合計 8,000+テスト、CI 0失敗
 - LLMコスト最適化 — ピーク時間帯ブロック・自動フォールバックチェーン搭載ローカルプロキシ
 - マルチエージェントオーケストレーション — タスク分解・品質ゲート・ガバナンス自動化
 - 技術記事執筆 — GitHub Pages で4冊のインタラクティブガイド公開
