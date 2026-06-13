@@ -33,6 +33,16 @@
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
+## Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**NexusCore**](https://github.com/fukukei23/NexusCore) | Multi-agent AI framework: 14 agents, 4,862 tests, plugin system, CLI | Python, FastAPI, Gradio, pytest |
+| [**atelier-kyo-manager**](https://github.com/fukukei23/atelier-kyo-manager) | Resale management: auto-order state machine, AI chatbot, listing pipeline | Python, Flask, SQLAlchemy, Playwright |
+| [**reserve-optimizer**](https://github.com/fukukei23/reserve-optimizer) | LINE reservation bot: conversational state machine, Stripe payments | GAS, Cloudflare Workers, Stripe, LINE API |
+| [**OpenClaw Stack**](https://github.com/fukukei23/openclaw-stack) | AI agent infrastructure: VPS + local dual deploy, 4-layer security | Docker, Caddy, UFW, HTTPS |
+| [**pw-stealth-enhanced**](https://github.com/fukukei23/pw-stealth-enhanced) | Anti-fingerprinting library for Playwright (playwright-stealth successor) | Python, Playwright |
+
 ## GitHub Stats
 
 ![fukukei23's GitHub stats](https://github-readme-stats.vercel.app/api?username=fukukei23&show_icons=true&theme=dark&hide_border=true)
